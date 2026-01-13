@@ -1,4 +1,5 @@
 
+# write a program to buy iphone cheper in usa or india
 
 ind=int(input("Enter iphone price in india ruppe:"))
 usa=int(input("Enter iphone price in usa $:"))
